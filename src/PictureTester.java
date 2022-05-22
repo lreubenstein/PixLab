@@ -189,17 +189,17 @@ public class PictureTester
     // and comment out the ones you don't want
     // to run
     testZeroBlue();
-    testKeepOnlyBlue();
+    //testKeepOnlyBlue();
     //testKeepOnlyRed();
     //testKeepOnlyGreen();
-    testNegate();
-    testGrayscale();
+    //testNegate();
+    //testGrayscale();
     //testFixUnderwater();
-    testMirrorVertical();
-    testMirrorVerticalRightToLeft();
-	testMirrorHorizontal();
+//    testMirrorVertical();
+//    testMirrorVerticalRightToLeft();
+//	testMirrorHorizontal();
 	//testMirrorHorizontalBottomToTop();
-	testMirrorDiagonal();
+	//testMirrorDiagonal();
     //testMirrorTemple();
     //testMirrorArms();
     //testMirrorGull();
@@ -209,7 +209,7 @@ public class PictureTester
     //testCopy();
 	//  testMyCollage();
     //testEdgeDetection();
-    testEdgeDetection2();
+    //testEdgeDetection2();
     //testChromakey();
     //testEncodeAndDecode();
     //testGetCountRedOverValue(250);
